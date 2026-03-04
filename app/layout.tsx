@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://zahnarzt-dold.vercel.app'),
   title: "Zahnarzt Dold Rheinfelden | Ihre Praxis für nachhaltige Zahnheilkunde",
   description:
-    "Moderne Zahnarztpraxis in Rheinfelden (Baden). Wir setzen auf Zahnerhalt, Prophylaxe und eine persönliche Behandlung. Jetzt Termin vereinbaren: 07623 62484.",
+    "Moderne Zahnarztpraxis in Rheinfelden (Baden). Wir setzen auf Zahnerhalt, Prophylaxe und eine persönliche Behandlung. Jetzt Termin vereinbaren: 07623 7172407.",
   keywords: [
     "Zahnarzt Rheinfelden",
     "Zahnarztpraxis Rheinfelden Baden",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Zahnarzt Dold Rheinfelden | Ihre Praxis für nachhaltige Zahnheilkunde",
     description:
-      "Moderne Zahnarztpraxis in Rheinfelden (Baden). Wir setzen auf Zahnerhalt, Prophylaxe und eine persönliche Behandlung. Jetzt Termin vereinbaren: 07623 62484.",
+      "Moderne Zahnarztpraxis in Rheinfelden (Baden). Wir setzen auf Zahnerhalt, Prophylaxe und eine persönliche Behandlung. Jetzt Termin vereinbaren: 07623 7172407.",
     images: ["/team.png"],
     type: "website",
   },

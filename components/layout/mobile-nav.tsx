@@ -39,13 +39,13 @@ export function MobileNav() {
       <SheetContent side="right" className="w-72">
         <SheetHeader>
           <SheetTitle className="text-left font-bold text-foreground">
-            <svg width="220" height="48" viewBox="0 0 220 48" xmlns="http://www.w3.org/2000/svg" fill="none" className="w-[160px] h-auto">
+            <svg width="360" height="48" viewBox="0 0 360 48" xmlns="http://www.w3.org/2000/svg" fill="none" className="w-[260px] h-auto">
               <style>
                 {`
                   .brand {
                     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
                     font-weight: 600;
-                    letter-spacing: 0.5px;
+                    letter-spacing: 0.4px;
                   }
                   .primary {
                     fill: #111827; /* dark modern navy */
@@ -58,9 +58,9 @@ export function MobileNav() {
               </style>
 
               <text x="0" y="30" className="brand primary" fontSize="22">
-                Zahnarzt <tspan className="accent">D</tspan>old
+                Dr. Klaus Michael <tspan className="accent">S</tspan>chunk
               </text>
-              <rect x="0" y="36" width="110" height="2" rx="1" fill="#1f9d84" opacity="0.25" />
+              <rect x="0" y="36" width="210" height="2" rx="1" fill="#1f9d84" opacity="0.25" />
             </svg>
           </SheetTitle>
         </SheetHeader>
@@ -80,7 +80,7 @@ export function MobileNav() {
             asChild
             className="bg-accent text-accent-foreground hover:bg-accent/90 rounded-lg mt-4"
           >
-            <a href="tel:+49762362484">
+            <a href="tel:+4976237172407">
               <Phone className="mr-2 h-4 w-4" />
               Termin vereinbaren
             </a>

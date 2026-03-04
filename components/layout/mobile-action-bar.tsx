@@ -38,7 +38,7 @@ export function MobileActionBar() {
             <div className="flex bg-background/80 backdrop-blur-lg border-t border-border/50 shadow-[0_-4px_10px_rgba(0,0,0,0.05)] w-full relative h-20">
                 <div className="flex flex-1 relative h-full">
                     <Link
-                        href="tel:+49762362484"
+                        href="tel:+4976237172407"
                         className="flex-1 flex flex-col items-center justify-center h-full hover:bg-accent/5 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent"
                     >
                         <Phone className="h-5 w-5 text-accent mb-1" />
@@ -46,7 +46,7 @@ export function MobileActionBar() {
                     </Link>
                     <div className="h-8 w-[1px] bg-border/50 self-center" />
                     <Link
-                        href="https://www.google.com/maps/dir/?api=1&destination=Friedrichstraße+23+79618+Rheinfelden+(Baden)"
+                        href="https://www.google.com/maps/dir/?api=1&destination=Oberrheinpl.+5+79618+Rheinfelden+(Baden)"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex-1 flex flex-col items-center justify-center h-full hover:bg-accent/5 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent"

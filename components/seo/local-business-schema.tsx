@@ -6,10 +6,10 @@ export function LocalBusinessSchema() {
         "@type": "Dentist",
         "name": "Zahnarzt Dold Rheinfelden | Ihre Praxis für nachhaltige Zahnheilkunde",
         "image": "/team.png",
-        "telephone": "+49 7623 62484",
+        "telephone": "+49 7623 7172407",
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Friedrichstr. 23",
+            "streetAddress": "Oberrheinpl. 5",
             "addressLocality": "Rheinfelden (Baden)",
             "postalCode": "79618",
             "addressCountry": "DE"

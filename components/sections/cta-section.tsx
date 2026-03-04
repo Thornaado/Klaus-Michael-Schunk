@@ -28,7 +28,7 @@ export function CTASection() {
             size="lg"
             className="mt-4 rounded-lg bg-background text-foreground hover:bg-background/90 font-semibold"
           >
-            <a href="tel:+49762362484">
+            <a href="tel:+4976237172407">
               <Phone className="mr-2 h-4 w-4" />
               Termin vereinbaren
             </a>

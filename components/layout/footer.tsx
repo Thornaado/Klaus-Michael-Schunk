@@ -14,11 +14,11 @@ export function Footer() {
             <ul className="flex flex-col items-center md:items-start gap-3 text-sm text-primary-foreground/80">
               <li className="flex items-start gap-2">
                 <MapPin className="h-4 w-4 mt-0.5 shrink-0" />
-                <span>Friedrichstr. 23, 79618 Rheinfelden</span>
+                <span>Oberrheinpl. 5, 79618 Rheinfelden</span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="h-4 w-4 shrink-0" />
-                <span>07623 62484</span>
+                <span>07623 7172407</span>
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="h-4 w-4 shrink-0" />

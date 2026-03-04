@@ -96,9 +96,7 @@ export function PatientInfoModal({ trigger }: PatientInfoModalProps) {
                                     </div>
                                     <div>
                                         <p className="text-sm leading-relaxed text-muted-foreground">
-                                            Die Praxis befindet sich in Rheinfelden (Baden) in der Friedrichstr. 23.
-                                            Nähe Blumen Kaiser und Hiebers Frische Center, im gleichen Haus mit dem
-                                            Hausarztzentrum Friedrichstraße, Kieferorthopädie Möller und anderen.
+                                            Die Praxis befindet sich in Rheinfelden (Baden) am Oberrheinpl. 5.
                                             Kostenlose Parkplätze stehen rund um das Gebäude zur Verfügung.
                                         </p>
                                     </div>

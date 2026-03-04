@@ -40,13 +40,13 @@ export function Header() {
           className="focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring rounded-md"
           aria-label="Zur Startseite"
         >
-          <svg width="220" height="48" viewBox="0 0 220 48" xmlns="http://www.w3.org/2000/svg" fill="none" className="w-[180px] h-auto lg:w-[220px]">
+          <svg width="360" height="48" viewBox="0 0 360 48" xmlns="http://www.w3.org/2000/svg" fill="none" className="w-[280px] h-auto lg:w-[360px]">
             <style>
               {`
                 .brand {
                   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
                   font-weight: 600;
-                  letter-spacing: 0.5px;
+                  letter-spacing: 0.4px;
                 }
                 .primary {
                   fill: #111827; /* dark modern navy */
@@ -60,11 +60,11 @@ export function Header() {
 
             {/* Main Brand Name */}
             <text x="0" y="30" className="brand primary" fontSize="22">
-              Zahnarzt <tspan className="accent">D</tspan>old
+              Dr. Klaus Michael <tspan className="accent">S</tspan>chunk
             </text>
 
             {/* Subtle underline accent */}
-            <rect x="0" y="36" width="110" height="2" rx="1" fill="#1f9d84" opacity="0.25" />
+            <rect x="0" y="36" width="210" height="2" rx="1" fill="#1f9d84" opacity="0.25" />
           </svg>
         </Link>
 
@@ -85,7 +85,7 @@ export function Header() {
             className="bg-accent text-accent-foreground hover:bg-accent/90 rounded-lg"
             size="sm"
           >
-            <a href="tel:+49762362484">
+            <a href="tel:+4976237172407">
               <Phone className="mr-2 h-4 w-4" />
               Termin vereinbaren
             </a>
