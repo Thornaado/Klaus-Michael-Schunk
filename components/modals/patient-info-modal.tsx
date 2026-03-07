@@ -46,7 +46,7 @@ export function PatientInfoModal({ trigger }: PatientInfoModalProps) {
             text: "Einen aktuellen, ausgefüllten Anamnesebogen, den Sie hier herunterladen können.",
             hasLink: true,
             linkText: "Anamnesebogen herunterladen",
-            linkUrl: "https://www.zahnarzt-dold.de/Anmeldebogen_Dold.pdf",
+            linkUrl: "",
         },
         { text: "Evtl. vorhandene Impf- und Allergieausweise." },
         { text: "Die Versichertenkarte." },
