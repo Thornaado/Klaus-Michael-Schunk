@@ -22,7 +22,7 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="h-4 w-4 shrink-0" />
-                <span>praxis@zahnarzt-dold.de</span>
+                <span>praxis@zahnarzt-schunk.de</span>
               </li>
             </ul>
             <PatientInfoModal
