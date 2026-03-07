@@ -29,11 +29,11 @@ export default function ImpressumPage() {
               Angaben gem&auml;&szlig; &sect; 5 TMG
             </h2>
             <p className="mt-2">
-              Dr. med. dent. Christian Dold
+              Dr. med. dent. Klaus Michael Schunk
               <br />
-              Zahnarztpraxis Dold
+              Zahnarztpraxis Schunk
               <br />
-              Oberrheinpl. 5
+              Oberrheinplatz 5
               <br />
               79618 Rheinfelden
             </p>
@@ -44,7 +44,7 @@ export default function ImpressumPage() {
             <p className="mt-2">
               Telefon: 07623 7172407
               <br />
-              E-Mail: praxis@zahnarzt-dold.de
+              E-Mail: praxis@zahnarzt-schunk.de
             </p>
           </div>
 
