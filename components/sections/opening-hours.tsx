@@ -33,9 +33,9 @@ export function OpeningHours() {
                             transition={{ duration: 0.5, delay: 0.2 }}
                             className="relative flex flex-col items-center gap-2 rounded-2xl border border-border bg-card p-8 shadow-sm transition-all duration-300 hover:border-accent/30 hover:shadow-md"
                         >
-                            <h3 className="text-xl font-semibold text-foreground 2xl:text-2xl">Vormittags</h3>
-                            <p className="text-lg font-medium text-muted-foreground 2xl:text-xl">Mo. bis Fr.</p>
-                            <p className="text-2xl font-bold text-accent 2xl:text-3xl">8:30 – 11:00 Uhr</p>
+                            <h3 className="text-xl font-semibold text-foreground 2xl:text-2xl">Mo. bis Do.</h3>
+                            <p className="text-2xl font-bold text-accent 2xl:text-3xl">8:00 – 12:00 Uhr</p>
+                            <p className="text-2xl font-bold text-accent 2xl:text-3xl">15:00 – 18:00 Uhr</p>
                         </motion.div>
 
                         <motion.div
@@ -45,9 +45,8 @@ export function OpeningHours() {
                             transition={{ duration: 0.5, delay: 0.3 }}
                             className="relative flex flex-col items-center gap-2 rounded-2xl border border-border bg-card p-8 shadow-sm transition-all duration-300 hover:border-accent/30 hover:shadow-md"
                         >
-                            <h3 className="text-xl font-semibold text-foreground 2xl:text-2xl">Nachmittags</h3>
-                            <p className="text-lg font-medium text-muted-foreground 2xl:text-xl">Mo. bis Do.</p>
-                            <p className="text-2xl font-bold text-accent 2xl:text-3xl">14:00 – 16:00 Uhr</p>
+                            <h3 className="text-xl font-semibold text-foreground 2xl:text-2xl">Freitags</h3>
+                            <p className="text-2xl font-bold text-accent 2xl:text-3xl">08:00 – 11:00 Uhr</p>
                         </motion.div>
                     </div>
 
