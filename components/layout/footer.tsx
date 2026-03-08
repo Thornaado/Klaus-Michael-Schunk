@@ -80,7 +80,7 @@ export function Footer() {
 
         {/* Bottom bar */}
         <div className="mt-16 border-t border-primary-foreground/20 pt-8 text-center text-sm text-primary-foreground/60">
-          {"\u00A9 2026 Zahnarzt Dold. Alle Rechte vorbehalten."}
+          {"\u00A9 2026 Zahnarzt Schunk. Alle Rechte vorbehalten."}
         </div>
       </div>
     </footer>
