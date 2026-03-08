@@ -34,8 +34,8 @@ export function OpeningHours() {
                             className="relative flex flex-col items-center gap-2 rounded-2xl border border-border bg-card p-8 shadow-sm transition-all duration-300 hover:border-accent/30 hover:shadow-md"
                         >
                             <h3 className="text-xl font-semibold text-foreground 2xl:text-2xl">Mo. bis Do.</h3>
-                            <p className="text-2xl font-bold text-accent 2xl:text-3xl">8:00 – 12:00 Uhr</p>
-                            <p className="text-2xl font-bold text-accent 2xl:text-3xl">15:00 – 18:00 Uhr</p>
+                            <p className="text-2xl font-bold text-accent 2xl:text-3xl">8:00 – 12:00</p>
+                            <p className="text-2xl font-bold text-accent 2xl:text-3xl">15:00 – 18:00</p>
                         </motion.div>
 
                         <motion.div
@@ -46,7 +46,7 @@ export function OpeningHours() {
                             className="relative flex flex-col items-center gap-2 rounded-2xl border border-border bg-card p-8 shadow-sm transition-all duration-300 hover:border-accent/30 hover:shadow-md"
                         >
                             <h3 className="text-xl font-semibold text-foreground 2xl:text-2xl">Freitags</h3>
-                            <p className="text-2xl font-bold text-accent 2xl:text-3xl">08:00 – 11:00 Uhr</p>
+                            <p className="text-2xl font-bold text-accent 2xl:text-3xl">08:00 – 11:00</p>
                         </motion.div>
                     </div>
 
