@@ -56,7 +56,7 @@ export function Hero() {
                 <Button
                   variant="outline"
                   size="lg"
-                  className="rounded-lg border-white text-white hover:bg-white/10 hover:text-white text-base font-semibold drop-shadow-sm"
+                  className="bg-transparent rounded-lg border-white text-white hover:bg-white/10 hover:text-white text-base font-semibold drop-shadow-sm"
                 >
                   Ihr erster Besuch?
                 </Button>
